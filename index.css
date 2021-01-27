@@ -1,0 +1,201 @@
+/*Global stuff*/
+@font-face {
+    font-family: 'cocogooseregulartitle';
+    src:
+            url('./fonts/cocogoose_pro-trial-webfont.woff2') format('woff2'),
+            url('./fonts/cocogoose_pro-trial-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'cocogooseregular';
+    src:
+            url('./fonts/cocogoose_pro_light-trial-webfont.woff2') format('woff2'),
+            url('./fonts/cocogoose_pro_light-trial-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'cherionenormal';
+    src: url('./fonts/cherionenormal-pkxvd-webfont.woff2') format('woff2'),
+    url('./fonts/cherionenormal-pkxvd-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+.horizontal-line {
+    width: 50%;
+
+    display: block;
+
+    height: 1px;
+    border: 0;
+    border-top: 3px solid black;
+    margin:auto;
+    margin-top:3%;
+    padding: 0;
+}
+
+
+.text-white {
+    position:relative;
+    margin-left:20vw;
+}
+
+.kamiela-container {
+    font-family: cherionenormal, sans-serif;
+}
+
+.description-container {
+    font-family: cocogooseregular, sans-serif ;
+}
+
+.logo {
+    position:relative;
+    margin-bottom:30rem;
+    margin-right:20%;
+    max-width: 10vw;
+    width: 10vw;
+}
+
+.about-me:hover {
+    background-color: #90d7e5;
+
+}
+
+.work:hover {
+    background-color: #90d7e5;
+}
+
+.comn-container {
+    padding:0;
+}
+
+
+.comn-logo {
+    width:100%;
+}
+
+.comn-text-container {
+    font-family: cocogooseregular, serif ;
+    align-content: center;
+}
+
+.title-1{
+    font-family: cocogooseregulartitle, serif ;
+    margin-top: 5%;
+    margin-bottom:0;
+    text-align: center;
+}
+
+.title-2{
+    font-family: cocogooseregulartitle, serif ;
+    margin-bottem: 0;
+    text-align: center;
+}
+
+.comn-text-1 {
+    margin-top:8%;
+    margin-left:20%;
+    margin-right:20%;
+    text-align:center;
+}
+
+.comn-text-2 {
+    margin-top:8%;
+    margin-left:20%;
+    margin-right:20%;
+    text-align:center;
+}
+
+.about-me-container {
+    background-color: #90d7e5;
+}
+
+
+.about-me-container {
+    color:white;
+    height:700px;
+}
+
+.about-me-text{
+    font-family: cherionenormal, sans-serif;
+    margin-top:2.5%;
+    text-align: center;
+}
+
+.about-me-description {
+    margin-top:5%;
+    font-family: cocogooseregular, sans-serif;
+
+}
+
+.about-me-description-first {
+    margin-bottom:2rem;
+}
+
+
+.footer-photo-img {
+    width: 80%;
+    margin-left: 15%;
+    margin-bottom:20%;
+}
+
+.skillset {
+    width:100%
+}
+
+.banner {
+    color:white;
+    background-color: #A8A8A8;
+}
+
+.social-media-banner {
+    font-family: cherionenormal;
+    text-align: center;
+    margin-bottom:5%;
+    margin-top:2%;
+}
+
+.icons {
+    max-height:10rem;
+    display:flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.icons-ref {
+    max-height: 80px;
+    max-width: 80px;
+}
+
+.facebook-logo{
+    margin-right:100%;
+    max-height:100%;
+}
+
+.instagram-logo {
+    max-height:100%;
+}
+
+.linked-in {
+    margin-right:100%;
+    max-height:100%;
+}
+
+
+.banner-text-1 {
+    font-family: cherionenormal;
+    margin-top:5%;
+    text-align: center;
+}
+
+.banner-text-2 {
+    font-family: cherionenormal;
+    margin-top:4%;
+    text-align: center;
+}

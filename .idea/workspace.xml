@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d0ad12e4-dcba-442e-954a-784674ff6c6f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1nc0VEYDluHidljjNfrQeL3SP5k" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../victor-hugo" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Kevin\WebstormProjects\Portfolio3\images" />
+      <recent name="C:\Users\Kevin\WebstormProjects\Portfolio3\fonts" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Kevin\WebstormProjects\Portfolio3" />
+      <recent name="C:\Users\Kevin\WebstormProjects\Portfolio3\fonts" />
+      <recent name="C:\Users\Kevin\WebstormProjects\Portfolio3\images" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d0ad12e4-dcba-442e-954a-784674ff6c6f" name="Default Changelist" comment="" />
+      <created>1611674092904</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611674092904</updated>
+      <workItem from="1611674093931" duration="8723000" />
+      <workItem from="1611682898635" duration="17027000" />
+      <workItem from="1611731061489" duration="26000" />
+      <workItem from="1611731105275" duration="10000" />
+      <workItem from="1611756035990" duration="2424000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="696" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1611688660154">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="696" y="322" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1611688660154" />
+    <state x="973" y="314" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1611777793765">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="973" y="314" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1611777793765" />
+    <state x="529" y="352" key="FileChooserDialogImpl" timestamp="1611771074477">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="529" y="352" key="FileChooserDialogImpl/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1611771074477" />
+    <state x="92" y="92" width="1736" height="856" key="dock-window-1" timestamp="1611771438540">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="dock-window-1/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1611771438540" />
+    <state x="92" y="92" width="1736" height="856" key="dock-window-10" timestamp="1611771438540">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="dock-window-10/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1611771438540" />
+    <state x="92" y="92" width="1736" height="856" key="dock-window-11" timestamp="1611771438540">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="dock-window-11/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1611771438540" />
+    <state x="92" y="92" width="1736" height="856" key="dock-window-12" timestamp="1611771438540">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="dock-window-12/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1611771438540" />
+    <state x="92" y="92" width="1736" height="856" key="dock-window-13" timestamp="1611771438540">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="dock-window-13/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1611771438540" />
+    <state x="92" y="92" width="1736" height="856" key="dock-window-14" timestamp="1611771438540">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="dock-window-14/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1611771438540" />
+    <state x="92" y="92" width="1736" height="856" key="dock-window-15" timestamp="1611771438540">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="dock-window-15/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1611771438540" />
+    <state x="92" y="92" width="1736" height="856" key="dock-window-16" timestamp="1611771438540">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="dock-window-16/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1611771438540" />
+    <state x="92" y="92" width="1736" height="856" key="dock-window-17" timestamp="1611771438540">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="dock-window-17/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1611771438540" />
+    <state x="92" y="92" width="1736" height="856" key="dock-window-18" timestamp="1611771438540">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="dock-window-18/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1611771438540" />
+    <state x="92" y="92" width="1736" height="856" key="dock-window-2" timestamp="1611771438540">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="dock-window-2/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1611771438540" />
+    <state x="92" y="92" width="1736" height="856" key="dock-window-3" timestamp="1611771438540">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="dock-window-3/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1611771438540" />
+    <state x="92" y="92" width="1736" height="856" key="dock-window-4" timestamp="1611771438540">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="dock-window-4/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1611771438540" />
+    <state x="92" y="92" width="1736" height="856" key="dock-window-5" timestamp="1611771438540">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="dock-window-5/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1611771438540" />
+    <state x="92" y="92" width="1736" height="856" key="dock-window-6" timestamp="1611771438540">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="dock-window-6/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1611771438540" />
+    <state x="92" y="92" width="1736" height="856" key="dock-window-7" timestamp="1611771438540">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="dock-window-7/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1611771438540" />
+    <state x="92" y="92" width="1736" height="856" key="dock-window-8" timestamp="1611771438540">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="dock-window-8/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1611771438540" />
+    <state x="92" y="92" width="1736" height="856" key="dock-window-9" timestamp="1611771438540">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="dock-window-9/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1611771438540" />
+    <state x="-1466" y="252" key="run.anything.popup" timestamp="1611680156431">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1466" y="252" key="run.anything.popup/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1611680156431" />
+    <state x="654" y="243" width="672" height="678" key="search.everywhere.popup" timestamp="1611688420080">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="654" y="243" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1611688420080" />
+  </component>
+</project>
